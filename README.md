@@ -1,5 +1,6 @@
 # Rock-Classification-Using-Deep-Learning
-Rock Classification Using Deep Learning
+
+
 📌 Project Overview
 This project leverages deep learning to classify different types of rocks using Convolutional Neural Networks (CNNs). The model is trained on 505 images spanning four rock categories (Granite, Basalt, Coal, and Andesite) with transfer learning and fine-tuning applied for enhanced accuracy.
 
